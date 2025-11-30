@@ -2,6 +2,7 @@
 @import "tw-animate-css";
 
 @custom-variant dark (&:is(.dark *));
+@import "animate.css/animate.min.css";
 
 :root {
   /* <CHANGE> Updated to earthy, warm color scheme for MilletMate */
